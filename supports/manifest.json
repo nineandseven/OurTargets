@@ -1,7 +1,7 @@
 {
   "name": "OurTargets",
   "short_name": "OurTargets",
-  "start_url": "./login",
+  "start_url": "./OurTargets/login",
   "display": "standalone",
   "background_color": "#e8e8e8",
   "theme_color": "#e8e8e8",
@@ -18,5 +18,6 @@
     }
   ]
 }
+
 
 
